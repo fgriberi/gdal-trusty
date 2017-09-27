@@ -11,5 +11,5 @@ $ docker build -t gdal-trusty .
 
 ## Use image from DockerHub
 ```bash
-docker pull friberi/gdal-trusty
+docker pull fgriberi/gdal-trusty
 ```
